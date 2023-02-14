@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "readmegenerator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoldyClaus/Challenge7.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoldyClaus/Challenge7/issues"
+  },
+  "homepage": "https://github.com/HoldyClaus/Challenge7#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.2.5"
   }
 }
